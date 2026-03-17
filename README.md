@@ -28,7 +28,7 @@ A beautiful, terminal-based journal application built with Go and the Bubble Tea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/journal-cli.git
+   git clone https://github.com/yordanos-habtamu/journal-cli.git
    cd journal-cli
    ```
 
