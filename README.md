@@ -1,4 +1,4 @@
-# Zen Journal CLI
+# Zentel Journal CLI
 
 A beautiful, terminal-based journal application built with Go and the Bubble Tea framework. Capture your thoughts in a serene, distraction-free environment.
 
